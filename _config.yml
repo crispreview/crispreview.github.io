@@ -1,6 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 # SEO Stuff
 author: Crisp Review
@@ -9,8 +10,6 @@ lang: en
 locale: en_GB
 url: "https://www.crispreview.co.uk"
 baseurl: ""
-
-paginate: 5
 
 # RSS feeds
 feed:

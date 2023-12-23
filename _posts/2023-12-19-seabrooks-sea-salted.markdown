@@ -2,7 +2,6 @@
 layout: posts
 title:  "Seabrook - Sea Salted"
 date:   2023-12-19 16:43:00 +0000
-categories: crisp review
 ---
 ## Seabrook - Sea Salted
 

@@ -3,8 +3,6 @@ layout: posts
 title:  "Seabrook x Aunt Bessie's - Roast Potato & Black Pepper"
 date:   2023-12-23 14:43:00 +0000
 ---
-## Seabrook x Aunt Bessie's - Roast Potato & Black Pepper
-
 Another Seabrooks offering today. This time, one from their 'collaboration' with Aunt Bessie's. Aunt Bessie's have also made some beer with Northern Monk. I'm not sure what they're up to but I don't like it. Stick with the frozen yorkshires and roast potatoes. You're not doing anyone any favours with this nonsense.
 
 When I picked up the crisps I thought, "These will be nice." I was wrong. These are disgusting. 

@@ -22,10 +22,12 @@
     {{ content }}</p>
       
     {% for post in site.posts %}
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            <p><a href="{{ post.url }}">Continue reading...</a></p>
-        {% endfor %}
+    <p><ul>
+	<li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+            		<p><a href="{{ post.url }}">Continue reading...</a></p></li>
+    </ul></p>
+    {% endfor %}
 	<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">

@@ -11,4 +11,4 @@ They've got the perfect amount of salt. Just right for cutting through the greas
 
 A solid 8/10. 
 
-Next up... something more exciting.
+Up next, something more exciting.

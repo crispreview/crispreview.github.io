@@ -1,4 +1,4 @@
----
+oh---
 layout: posts
 title:  "Willards - Cheas Naks - Chutney"
 date:   2024-01-11 11:12:00 +0000
@@ -13,9 +13,7 @@ Ingredients include 'irradiated spices' and 'non-nutrative sweeteners'. I'm goin
 
 <img style="max-height:50vh" src="/assets/images/wcncf.jpg" alt="McCoy's - Epic Eats - Spicy Salsa Packet"/>
 
-Interesting, but not fantastic. And before anyone starts, they're crisps. 
-
-DOWN WITH THE CRIPS PURITANS!
+Interesting, but not fantastic. And before anyone starts, they're crisps. 
 
 4/10
 

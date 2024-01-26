@@ -19,4 +19,4 @@ DOWN WITH THE CRIPS PURITANS!
 
 4/10
 
-Up next, from a discount retailer.
+Up next, something from a discount retailer.

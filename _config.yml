@@ -15,4 +15,4 @@ baseurl: ""
 feed:
   posts_limit: 20
 
-paginate: 5
+paginate: 3

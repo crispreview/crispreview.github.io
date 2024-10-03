@@ -14,5 +14,6 @@ baseurl: ""
 # RSS feeds
 feed:
   posts_limit: 20
-
+  
+paginate_path: "/"
 paginate: 4

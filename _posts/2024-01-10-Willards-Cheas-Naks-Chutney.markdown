@@ -11,9 +11,10 @@ They're Nik Naks. They're slightly bigger than normal Nik Naks but that's what t
 
 Ingredients include 'irradiated spices' and 'non-nutrative sweeteners'. I'm going to finish the packet and keep my fingers crossed. With any luck I'll turn into a half man half crisp with super powers.
 
-<img style="max-height:50vh" src="/assets/images/wcncf.jpg" alt="McCoy's - Epic Eats - Spicy Salsa Packet"/>
+<img style="max-height:50vh" src="/assets/images/wcncf.jpg" alt="Willards - Cheas Naks - Chutney Crisp Packet"/>
 
-Interesting, but not fantastic. And before anyone starts, they're crisps. 
+Interesting, but not fantastic. And before anyone starts, they're crisps. 
+
 
 4/10
 

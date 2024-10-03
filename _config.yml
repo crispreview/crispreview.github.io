@@ -15,5 +15,5 @@ baseurl: ""
 feed:
   posts_limit: 20
   
-paginate_path: "/"
 paginate: 4
+paginate_path: /reviews/page/:num/

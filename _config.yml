@@ -16,4 +16,4 @@ feed:
   posts_limit: 20
   
 paginate: 4
-paginate_path: /reviews/page/:num/
+paginate_path: /page/:num/

@@ -2,7 +2,6 @@
 title: Crisp Review - Eating crisps and writing about them.
 header: Crisp Review
 summary: I eat crisps and write about them.
-link: /
 layout: default
 ---
 My name is [Sam](https://www.samwalton.co.uk) and I love crisps.

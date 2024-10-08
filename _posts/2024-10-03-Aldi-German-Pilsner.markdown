@@ -6,6 +6,8 @@ date:   2024-10-03 09:00:00 +0000
 
 Beer and crisps are a fantastic combination. A core part of the British experience. A transcendental combination much greater than the sum of their parts. 
 
+<!--excerpt-->
+
 Then there's these. 
 
 They're not bad. But they're not very good either. There's something about Aldi crisps that makes me think of fish and chips. I think it's the grease. 

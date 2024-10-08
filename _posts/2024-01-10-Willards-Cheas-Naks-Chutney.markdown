@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Willards - Cheas Naks - Chutney"
-date:   2024-01-11 11:12:00 +0000
+date:   2024-01-11 09:00:00 +0000
 ---
 Something from South Africa this week; Willards Cheas Naks. According to The Internet "Willards makes snacks for the whole family: melt-in-your-mouth Cheese Curls and Flings, Big Korn Bites, Crinkle Cut, Original Cut, Flanagan’s Irish Kettle fried chips, and Cheasnaks!" Well, they made a snack for me and I am part of a family and everyone in my family would be able to eat them so I guess they're right. 
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Seabrook - Sea Salted"
-date:   2023-12-19 16:43:00 +0000
+date:   2023-12-19 09:00:00 +0000
 ---
 Lets ease back into this with something simple. A real classic of the genre. Seabrook are the master of ridged crisps. They've cracked the formula. Wavy and crisp with just the right amount of bite. 
 

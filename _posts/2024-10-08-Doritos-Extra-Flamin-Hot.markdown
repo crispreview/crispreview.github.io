@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Doritos - Extra Flamin' Hot"
-date:   2024-10-08 12:00:00 +0000
+date:   2024-10-08 09:59:00 +0000
 ---
 
 Doritos are good crisps. Chilli Heatwave Doritos are very good crisps. Extra Flamin' Hot Doritos are extra very good crisps. I just wish they'd spelt Flaming properly.

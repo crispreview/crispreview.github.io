@@ -20,4 +20,4 @@ Walker's have also made Extra Flamin' Hot Crunchy Wotsits and Extra Flamin' Hot 
 
 These crisps come with a strong reccomendation. They're pretty delicious. And it's nice to write a properly positive review for once.
 
-Up next, something a little more classic.
+Up next, something a little more traditional.

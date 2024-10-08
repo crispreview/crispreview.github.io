@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "McCoy's - Epic Eats - Spicy Salsa"
-date:   2024-01-01 10:45:00 +0000
+date:   2024-01-01 09:00:00 +0000
 ---
 McCoy's crisps are always a winner and these are no different. The marketing material for 'Epic Eats' claims they pack a punch, have that signature crunch, and are irresistable. I'm not sure about all that but these are a good crisp.
 

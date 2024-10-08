@@ -6,6 +6,8 @@ date:   2024-10-08 09:00:00 +0000
 
 Doritos are good crisps. Chilli Heatwave Doritos are very good crisps. Extra Flamin' Hot Doritos are extra very good crisps. I just wish they'd spelt Flaming properly.
 
+<!--excerpt-->
+
 Spicy crisps are often tomato flavour crisps with some extra flavours. These aren't. That is a good thing. These are a very savoury crisp. There's a hint of marmite, or something equally umami, combined with a 'chilli powder' flavour and a slowly building heat. They're not massively spicy but they are certainly spicier than the regular Chilli Heatwave Doritos. 
 
 I forgot to take a picture of the acual crisps. They're startling. They're thickly coated with a reddish orange dust that gets all over your fingers. It's the kind of flavouring that gets on your clothes if you're not careful. 

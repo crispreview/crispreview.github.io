@@ -19,3 +19,5 @@ It didn't stop me eating the whole bag.
 5/10 
 
 They came highly recommended but left me wanting. I'd say you should try them for yourself but you can't. They're gone. A distant beery memory.
+
+Up next, something spicy.

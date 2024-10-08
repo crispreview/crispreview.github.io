@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Aldi - German Pilsner Beer"
-date:   2024-10-03 12:23:00 +0000
+date:   2024-10-03 09:00:00 +0000
 ---
 
 Beer and crisps are a fantastic combination. A core part of the British experience. A transcendental combination much greater than the sum of their parts. 

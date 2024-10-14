@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Smith's - Chipsticks"
-date:   2024-14-08 09:00:00 +0000
+date:   2024-10-14 09:00:00 +0000
 ---
 
 I bought these Chipsticks for purely nostalgic reasons. They are a 'corner-shop' crisp. You're not going to get them in your packed lunch. Instead, you're going to walk home and spend your bus money on a bag of these and a curly wurly.

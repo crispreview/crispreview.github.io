@@ -22,4 +22,4 @@ I just find the weird long bag a little off putting.
 
 They're an excellent crisp. What else is there to say?
 
-Up next, something more nuanced.
+Up next, something pungent.

@@ -8,7 +8,7 @@ I bought these Chipsticks for purely nostalgic reasons. They are a 'corner-shop'
 
 <!--excerpt-->
 
-I spent quite a long time on the Smith's Wikipedia page before writing this. I'm not going to regurgitate the information because you're capable of reading. However, I was surprised to learn that Smith's invented Salt and Vinegar. 
+I spent quite a long time on the Smith's Wikipedia page before writing this. I'm not going to regurgitate the information because you're capable of reading. However, I was surprised to learn that Smith's invented Salt and Vinegar crisps. 
 
 Chipsticks are Salt and Vinegar flavour. Not all Salt and Vinegar crisps are equal and fortunately these are good ones. They taste of cheap chip shop vinegar rather than poncy balsamic or apple cider vinegar. I think it's the same flavour they use on Squares. These crunchy little sticks are an absolute delight. 
 

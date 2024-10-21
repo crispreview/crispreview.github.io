@@ -12,7 +12,7 @@ These crisps are excellent. They are savoury. The horseradish is, horseradishy. 
 
 The horseradish is the star of the show here. It's pungent but not offensivley strong. There's a hint of mustard as well, which is delicious. Then there's a nice strong, savoury, meaty flavour. Beef, I guess. I could go on but I don't want labour the point too much. I like these crisps. A lot.
 
-I normally finish a bag of crisps in on sitting. These, however, left me satisfied after just a few handfuls.
+I normally finish a bag of crisps in one sitting. These, however, left me satisfied after just a few handfuls.
 
 <img style="max-height:50vh" src="/assets/images/tbh.jpg" alt="Tesco - Roast Beef & Horseradish"/>
 

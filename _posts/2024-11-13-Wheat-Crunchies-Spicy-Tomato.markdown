@@ -14,7 +14,7 @@ As for the crisps; they're great. I haven't had Wheat Crunchies in a very long t
 
 They're also really crunchy. It would be annoying if they weren't. If they were called 'Wheat Crunchies' and were chewy then I don't think this review would be anywhere near as positive.
 
-I'm not sure there's much else to say here. They're a solid crisp.
+I'm not sure there's much else to say here
 
 
 <img style="max-height:50vh" src="/assets/images/wcst.jpg" alt="Wheat Crunchies - Spicy Tomato"/>

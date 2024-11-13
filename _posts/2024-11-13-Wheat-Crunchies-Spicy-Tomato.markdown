@@ -4,7 +4,7 @@ title:  "Wheat Crunchies - Spicy Tomato"
 date:   2024-11-13 10:00:00 +0000
 ---
 
-It's time for another trip down memory lane. It's 12:15 and I've got sandwiches made with cheap white bread, a bag of Wheat Crunchies and a slightly melted Pengiun. Then I'm going to run around for a bit and pretend to shoot my friends. Excellent.
+It's time for another trip down memory lane. It's 12:15 and I've got sandwiches made with cheap white bread, a bag of Wheat Crunchies and a slightly melted Penguin. Then I'm going to run around for a bit and pretend to shoot my friends. Excellent.
 
 <!--excerpt-->
 

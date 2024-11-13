@@ -20,4 +20,4 @@ I normally finish a bag of crisps in one sitting. These, however, left me satisf
 
 A powerful, powerful crisp. I will be seeing what else Tesco have got on offer.
 
-Up next, something less fiery.
+Up next, something crunchy.

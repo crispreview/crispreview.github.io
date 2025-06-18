@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Morrisons - Scotch Bonnet Chilli"
+title:  "Walkers x Heinz - Tomato Ketchup"
 date:   2025-06-18 10:00:00 +0000
 ---
 

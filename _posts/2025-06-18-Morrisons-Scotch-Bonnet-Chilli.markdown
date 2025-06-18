@@ -8,7 +8,7 @@ Britain's fifth biggest supermarket made some spicy crisps and I ate them. Now I
 
 <!--excerpt-->
 
-These crisps are ridged. They're nice and thick. They're well coated with flavouring and there are little green flecks of herbs. They look pretty promising.
+These crisps are ridged. They're nice and thick. They're well coated with flavouring and there are little green flecks of herbs on them. They look pretty promising.
 
 And man, what a crunch. They're a bit greasy but that's okay. They're some of the crispiest crisps I've eaten in a while.
 

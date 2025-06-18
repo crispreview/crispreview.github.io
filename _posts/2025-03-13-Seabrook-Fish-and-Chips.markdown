@@ -22,4 +22,4 @@ I was expecting salt and vinegar and was severely disappointed. There's no menti
 
 Excellent texture, disappointing flavour.
 
-Up next, more Seabrooks.
+Up next, something unpleasant.

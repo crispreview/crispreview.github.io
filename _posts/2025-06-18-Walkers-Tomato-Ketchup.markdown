@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Morrisons - Scotch Bonnet Chilli"
-date:   2025-18-09 10:00:00 +0000
+date:   2025-06-18 10:00:00 +0000
 ---
 
 I do not like ketchup.

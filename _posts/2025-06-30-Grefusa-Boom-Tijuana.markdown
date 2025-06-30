@@ -22,4 +22,4 @@ Should you travel to Spain to buy them? Probably not. But they're worth a shot i
 
 Sabor que te explota en la boca como una bomba de intensidad indeed.
 
-Up next, some supermarket own brand crisps.
+Up next, more foreign muck.

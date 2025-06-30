@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Grefusa - ¡Boom! Tijuana "
-date:   2025-30-06 10:00:00 +0000
+date:   2025-06-30 10:00:00 +0000
 ---
 
 ¿Hablas español? No! But that's not going to stop me. It's international week at CrispReview.

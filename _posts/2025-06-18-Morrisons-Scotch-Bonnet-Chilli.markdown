@@ -22,4 +22,4 @@ The rest of the herbs and spices are a little muddled but the crisps are nice an
 
 Excellent texture, decent flavour. There's not much more to say.
 
-Up next, something 'normal'.
+Up next, something Spanish.

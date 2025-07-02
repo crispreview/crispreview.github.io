@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Dia - Snack Maniacs - Campesinas"
-date:   2024-07-02 10:00:00 +0000
+date:   2025-07-02 10:00:00 +0000
 ---
 
 Today, I continue exploring the Iberian Peninsula through the medium of crisps.

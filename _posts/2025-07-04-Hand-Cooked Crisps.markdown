@@ -20,4 +20,4 @@ As the mystery of the Most Holy Trinity is the central mystery of Christian fait
 
 Peak crisp.
 
-Up next, something transcendental. 
+Up next, something nirvana. 

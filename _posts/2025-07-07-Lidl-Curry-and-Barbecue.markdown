@@ -8,7 +8,7 @@ Cheese and onion, salt and vinegar, curry and... barbecue?
 
 <!--excerpt-->
 
-I really don't know where to start with this one.
+I really don't know what to say.
 
 Let's start with the facts...
 

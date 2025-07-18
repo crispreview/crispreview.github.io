@@ -13,9 +13,9 @@ I like Nik Naks. I really like Nik Naks. My favourite flavour Nik Naks are Nice 
 
 Where to begin?
 
-These crisps are very smelly. I have washed my hands twice and I'm not sure the smell is completely gone. The flavour lingers also for a long time. I just tried to have a cup of tea but had to give up. I don't think cheese and tea are a good combination.
+These crisps are very smelly. I have washed my hands twice and I'm not sure the smell is completely gone. The flavour also lingers for a long time. I just tried to have a cup of tea but had to give up. I don't think cheese and tea are a good combination.
 
-These crisps also have a lot of flavour. It is difficult to describe the flavour. I do not know if I like the flavour. What I do know is there is a lot of it. 
+These crisps also have a lot of flavour. It is difficult to describe the flavour. I do not know if I like the flavour. What I do know is that there is a lot of it. 
 
 Here are some of the things I thought whilst eating them.
 

@@ -1,25 +1,35 @@
 ---
 layout: posts
-title:  "Golden Wonder - Chippies - Salt and Vinegar"
-date:   2025-07-16 10:00:00 +0000
+title:  "Nik Naks - Tangy 'n'Cheesy"
+date:   2025-07-18 10:00:00 +0000
 ---
 
-Hello heartburn, my old friend.
+Nik Naks were discovered in Scunthorpe in 1982. 
 
 <!--excerpt-->
 
-Now these are an unusual crisp. They're like shoestring fries that have been cut into tiny, short, pieces. It's almost like a bag full of ridges which have been separated from each other. Some have skin on, some do not. I do not know what manafacturing error led to this creation but I'm glad it happened.
 
-The 'crisps' are very crunchy. Because they are small you have to grab unsightly handfuls and shovel them into your mouth. Or you can pour them straight in from the bag. Whatever you choose, it's undignified in the best way.
+I like Nik Naks. I really like Nik Naks. My favourite flavour Nik Naks are Nice 'n' Spicy, followed by Scampi 'n' Lemon, then Rib 'n' Saucy. Today I discovered a new flavour. I bought them because it is unusual to find a vegan cheesy crisp.
 
-As for flavour... It's more of a feeling than a flavour. These are the most powerful salt and vinegar crisps I have ever eaten. They are mouth numbing. I could almost feel my lips going blue. The acidity makes its way down your gullet and sits heavily in your stomach.
+Where to begin?
 
-They are fantastic.
+These crisps are very smelly. I have washed my hands twice and I'm not sure the smell is completely gone. The flavour lingers also for a long time. I just tried to have a cup of tea but had to give up. I don't think cheese and tea are a good combination.
 
-<img style="max-height:50vh" src="/assets/images/gwcsv.jpg" alt="Golden Wonder - Chippies - Salt and Vinegar"/>
+These crisps also have a lot of flavour. It is difficult to describe the flavour. I do not know if I like the flavour. What I do know is there is a lot of it. 
 
-10/10 
+Here are some of the things I thought whilst eating them.
 
-When I ask for "lots" of sdalt and vinegar at the chip shop, this is what I mean.
+- These taste of nacho cheese and lemon. 
+- What a strange combination.
+- Why would you mix lemon and cheese?
+- Actually, these taste a bit sicky.
+- God, my hands smell.
 
-Up next, something more nuanced. 
+
+<img style="max-height:50vh" src="/assets/images/nntc.jpg" alt="Nik Naks - Tangy n Cheesy"/>
+
+??/10 
+
+I don't know what to think.
+
+Up next, something more sane. 

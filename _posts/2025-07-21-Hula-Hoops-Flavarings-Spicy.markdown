@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Hula Hoops - Flavarings - Spicy"
-date:   2025-07-16 10:00:00 +0000
+date:   2025-07-20 10:00:00 +0000
 ---
 
 I could see from the packet that these were not going to be normal Hula Hoops and I was right. It is nice to be right.

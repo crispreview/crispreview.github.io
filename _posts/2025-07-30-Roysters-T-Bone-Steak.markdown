@@ -15,7 +15,7 @@ KP Snacks told us a lie and we swallowed it wholesale. I'm glad we did. These ar
 They're very moreish. 
 
 
-<img style="max-height:50vh" src="/assets/images/nntc.jpg" alt="Roysters - T-Bone Steak"/>
+<img style="max-height:50vh" src="/assets/images/rtbs.jpg" alt="Roysters - T-Bone Steak"/>
 
 7/10 
 

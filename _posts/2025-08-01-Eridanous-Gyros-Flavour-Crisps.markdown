@@ -8,9 +8,7 @@ date:   2025-08-01 10:00:00 +0000
 
 <!--excerpt-->
 
-> Gyros is meat cooked on a vertical rotisserie, then sliced and served wrapped or stuffed in pita bread, along with other ingredients such as tomato, onion, fried potatoes, and tzatziki. 
-
-[Wikipedia](https://en.wikipedia.org/wiki/Gyros)
+_Gyros is meat cooked on a vertical rotisserie, then sliced and served wrapped or stuffed in pita bread, along with other ingredients such as tomato, onion, fried potatoes, and tzatziki._ - [Wikipedia](https://en.wikipedia.org/wiki/Gyros)
 
 
 These are crisps not gyros.

@@ -20,6 +20,6 @@ They are fantastic.
 
 10/10 
 
-When I ask for "lots" of sdalt and vinegar at the chip shop, this is what I mean.
+When I ask for "lots" of salt and vinegar at the chip shop, this is what I mean.
 
 Up next, something more nuanced. 

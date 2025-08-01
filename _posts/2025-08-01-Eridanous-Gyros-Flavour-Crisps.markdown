@@ -13,7 +13,7 @@ _Gyros is meat cooked on a vertical rotisserie, then sliced and served wrapped o
 
 These are crisps not gyros.
 
-They are very crunchy and very salty. Those are good qualities in a crisp. They taste of thyme, or oregano. It is a nice flavour. They don't really taste of meat. Instead, they taste of the herbs you would associate with meat. A bit like those roast chicken flavour crisps that don't contain any chicken but just taset a bit like sage and onion.
+They are very crunchy and very salty. Those are good qualities in a crisp. They taste of thyme, or oregano. It is a nice flavour. They don't really taste of meat. Instead, they taste of the herbs you would associate with meat. A bit like those roast chicken flavour crisps that don't contain any chicken but just taste a bit like sage and onion.
 
 They are also surprisingly orange. I like it when crisp flavouring has a colour.
 

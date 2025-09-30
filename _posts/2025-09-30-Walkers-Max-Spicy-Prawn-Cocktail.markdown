@@ -1,30 +1,27 @@
 ---
 layout: posts
-title:  "Eridanous - Gyros Flavour Crisps"
-date:   2025-08-01 10:00:00 +0000
+title:  "Walkers - Max - Spicy Prawn Cocktail"
+date:   2025-09-30 10:00:00 +0000
 ---
 
-Είναι εβδομάδα ελληνικής κουζίνας στα Lidl και τρώω πατατάκια.
+These are very, very good.
 
 <!--excerpt-->
 
-> Gyros is meat cooked on a vertical rotisserie, then sliced and served wrapped or stuffed in pita bread, along with other ingredients such as tomato, onion, fried potatoes, and tzatziki. 
+Theres a hint of Lynx Africa about the packaging. It's probably best not to think about Prawn Cocktail flavoured body spray. I hadn't really made the connection before. I think all the Max crisps look like this. I guess they're crisps for blokes. Blokes who want to smell like teenagers.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Gyros)
+Some people say that Prawn Cocktail crisps taste like ketchup. Those people are wrong. [I do not like ketchup.](https://www.crispreview.co.uk/2025/06/18/Walkers-Tomato-Ketchup.html). I do like Prawn Cocktail. They taste different and I will not listen to anyone who says otherwise.
 
+These Prawn Cocktail crisps are special. Tangy yet sweet with that signature fishy undertone (achieved through purely vegan means). They are also spicy. It's a tangy, acidic, pokey kind of spice. There's no building heat. No lingering regret. Just a nice spicy tickle on the tip of the tounge.
 
-These are crisps not gyros.
+Like all 'Max' crisps, these crisps are ridged and crunchy. 
 
-They are very crunchy and very salty. Those are good qualities in a crisp. They taste of thyme, or oregano. It is a nice flavour. They don't really taste of meat. Instead, they taste of the herbs you would associate with meat. A bit like those roast chicken flavour crisps that don't contain any chicken but just taset a bit like sage and onion.
+<img style="max-height:50vh" src="/assets/images/wmspc.jpg" alt="Walkers - Max - Spicy Prawn Cocktail"/>
 
-They are also surprisingly orange. I like it when crisp flavouring has a colour.
+10/10
 
-Other than that, there is little to report. They were a nice snack but I will not be sad when Greek week is over.
+Fantastic.
 
-<img style="max-height:50vh" src="/assets/images/eg.jpg" alt="Eridanous - Gyros Flavour Crisps"/>
+I also think 70g is the optimum packet size.
 
-6/10
-
-Not bad.
-
-Up next, a pink packet. 
+Up next, something I should have reviewed a long time ago. 

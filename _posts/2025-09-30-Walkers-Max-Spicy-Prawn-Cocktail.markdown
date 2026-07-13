@@ -24,4 +24,4 @@ Fantastic.
 
 I also think 70g is the optimum packet size.
 
-Up next, something I should have reviewed a long time ago. 
+Up next, Walkers again, Walkers again... 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Walkers - Bangers and Mash"
-date:   2026-07-13 09:00:00 +0000
+date:   2026-07-13
 ---
 
 Pack up your troubles in your old kit bag beacuse it's coming home.

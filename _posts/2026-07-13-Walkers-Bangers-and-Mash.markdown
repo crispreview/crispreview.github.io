@@ -14,7 +14,7 @@ Because it has been 30 degrees for almost a week, sausage and mash opportunities
 
 I don't think I've had mash for at least a month...
 
-Fortunately, these crisps taste just like sausage and mash. Herby, meaty, and greasy. They're delicious. Standard walkers crisps with plenty of flavouring.
+Fortunately, these crisps taste just like sausage and mash. Herby, meaty, and greasy. They're delicious. Standard walkers crisps with plenty of flavouring. Perfect.
 
 <img style="max-height:50vh" src="/assets/images/wbam.jpg" alt="Walkers - Bangers and Mash"/>
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Nik Naks - Xtra Hot 'n' Fiery"
-date:   2025-08-11 10:00:00 +0000
+date:   2026-08-11 10:00:00 +0000
 ---
 
 [Nik Naks were discovered in Scunthorpe in 1982.](https://www.crispreview.co.uk/2025/07/18/Nik-Naks-Tangy-n-Cheesy.html) They were improved in 2026.

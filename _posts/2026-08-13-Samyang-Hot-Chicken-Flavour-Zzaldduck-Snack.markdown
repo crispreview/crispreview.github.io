@@ -15,7 +15,7 @@ I imagined buying them and transporting them home with a feeling of great excite
 
 I imagined opening the packet and being confronted by the most hideous looking crisps I have ever encountered.
 
-I imagined putting one in my mouth and being revolted by the honey like sweetness, the faintest hint of chicken, and an almost imperceptible whiff of chicken.
+I imagined putting one in my mouth and being revolted by the honey like sweetness, the faintest hint of chilli, and an almost imperceptible whiff of chicken.
 
 I imagined thinking they tasted like a breakfast cereal.
 

@@ -1,24 +1,34 @@
 ---
 layout: posts
-title:  "Nik Naks - Xtra Hot 'n' Fiery"
-date:   2025-08-11 10:00:00 +0000
+title:  "Samyang - Hot Chicken Flavour Zzaldduck Snack"
+date:   2025-08-13 10:00:00 +0000
 ---
 
-[Nik Naks were discovered in Scunthorpe in 1982.](https://www.crispreview.co.uk/2025/07/18/Nik-Naks-Tangy-n-Cheesy.html) They were improved in 2026.
+I think I am suffering from heat stroke.
+
 
 <!--excerpt-->
 
+I imagined going into a shop and buying a packet of crisps that looked like Buldak Hot Chicken noodles.
 
-This is going to be a short review because there isn't much to say.
+I imagined buying them and transporting them home with a feeling of great excitement.
 
-Take a bag Nice 'n' Spicy Nik Naks and add more paprika, more cumin, and a heap of chilli. There's a bit of sweetness, a bit of an acidic tang, some savouriness from the cumin, and a good helping of chilli. They are absolutely delicious.
+I imagined opening the packet and being confronted by the most hideous looking crisps I have ever encountered.
 
-Spicy crisps aren't always spicy. These are. I don't know if it was the heat, but I got a bit of a sweat on. Fantastic.
+I imagined putting one in my mouth and being revolted by the honey like sweetness, the faintest hint of chicken, and an almost imperceptible whiff of chicken.
 
-<img style="max-height:50vh" src="/assets/images/nnxhf.jpg" alt="Nik Naks - Xtra Hot n Fiery"/>
+I imagined thinking they tasted like a breakfast cereal.
 
-10/10 
+I must have imagined it, because no one would make a snack so foul.
 
-A perfect bag of crips. But 10p more than the Tangy Cheese ones last year.
+If they were real, this is what they would have looked like...
 
-Up next, more spice. 
+<img style="max-height:50vh" src="/assets/images/shca.jpg" alt="Samyang - Hot Chicken Flavour Zzaldduck Snack"/>
+
+<img style="max-height:50vh" src="/assets/images/shcb.jpg" alt="Samyang - Hot Chicken Flavour Zzaldduck Snack"/>
+
+0/10 
+
+Hideous.
+
+Up next, something palatable. 

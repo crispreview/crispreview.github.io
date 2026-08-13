@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Samyang - Hot Chicken Flavour Zzaldduck Snack"
-date:   2025-08-13 10:00:00 +0000
+date:   2026-08-13 10:00:00 +0000
 ---
 
 I think I am suffering from heat stroke.
